@@ -15,7 +15,3 @@ services:
         value: 4fa9a7becae9889c9052871a24facfac
       - key: BOT_TOKEN
         value: 8361809176:AAEhVdiCv6KeQpCenfbelfiEb-8W4Dwf4WY
-    disk:
-      name: bot-data
-      mountPath: /app/data
-      sizeGB: 1
